@@ -15,4 +15,3 @@ class Comment(models.Model):
     created_date = models.DateTimeField(auto_now_add=True)
 
 
-# Note: User model is provided by Django's authentication system
